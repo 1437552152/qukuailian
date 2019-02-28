@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/counter/main",
+
+    "pages/logs/main",
+    "pages/details/main",
+    "pages/Hotreview/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "区块链见闻",
+    "navigationBarTextStyle": "black"
+  }
+}
